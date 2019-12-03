@@ -1,0 +1,2 @@
+E:\UNI\VS.Project\Booking\Booking\obj\Debug\Booking.csprojResolveAssemblyReference.cache
+E:\UNI\VS.Project\Booking\Booking\obj\Debug\Booking.csproj.CoreCompileInputs.cache
